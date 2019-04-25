@@ -1,5 +1,5 @@
 # Deep-Semantic-Feature-Correspondence-with-weakly-supervised-learning
-semantic-correspondece
+
 This is a project for solving "image semantic matching" by End-to-end Convolutional Neural Network with weakly-supervised learning.
 The main reference paper includes "Convolutional Neural Network Architecture for Geometric Matching"[1] in CVPR-2017, "End-to-end weakly-supervised semantic alignment"[2] in CVPR-2018
 and "Neighbourhood Consensus Networks"[3] in NIPS-2018.  
